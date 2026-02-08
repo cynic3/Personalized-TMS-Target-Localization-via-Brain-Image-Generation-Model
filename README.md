@@ -216,7 +216,7 @@ This project is for academic research purposes only. Please cite appropriately i
 
 ## 📬 Contact
 
-For questions or collaboration inquiries, please contact: [your-email@example.com]
+For questions or collaboration inquiries, please contact: [swenbo931@gmail.com]
 
 ---
 

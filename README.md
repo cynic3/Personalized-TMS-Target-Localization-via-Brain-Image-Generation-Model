@@ -193,7 +193,7 @@ GAN-Vit4MRIAD/
 ![Warm-up Mechanism](picture/14.jpg)
 ![SSIM Evaluation](picture/15.jpg)
 
-## 🔮 Future Work
+##  Future Work
 
 1. **Complete coverage of all 7 cognitive domains** (currently 4 implemented)
 2. **Develop individualized target identification mechanism** for TMS intervention

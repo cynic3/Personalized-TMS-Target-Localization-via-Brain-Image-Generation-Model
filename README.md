@@ -26,6 +26,9 @@ This project proposes a brain function mapping prediction system based on genera
 
 ## 🏗️ Model Architecture
 
+### Model Architecture Diagram
+![Model Architecture](picture/model_architecture.png)
+
 ### Overall Workflow
 ![System Flowchart](picture/2.jpg)
 
